@@ -1,16 +1,3 @@
-# log_in
+<h4>In this project I have created a Login and SignUp/Register page, Home Page.  Firstly, user should Registered/SignUp after successful registration it will be redirected to the Login page where we can enter the login credentials e.g EmailId and Password whese EmailId and Password are cross checked and validated with the values entered in SignUp page.For storing and authentication the values enterd by user in SignUp page I ahve used <h2> Shared Preferences</h2> here. After validating the details it will direct to Home Page.</h4>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>In side of Home page user can set an Image and dispaly it. User can only perform this action only once per day. If user tries to select and image user can't do that.After successful upload and updating of image the user can logout and redirected to the Login page </h3>
